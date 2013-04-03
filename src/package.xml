@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>HomePageLayout</name>
+    </types>
+    <types>
+        <members>Account-Organization Layout</members>
+        <members>Campaign-Campaign Layout</members>
+        <members>Contact-Contact Layout</members>
+        <members>Opportunity-Donation Layout</members>
+        <members>Opportunity-Membership Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <members>Executive Management</members>
+        <members>Fundraising and Development</members>
+        <members>Office Manager</members>
+        <members>Office Staff</members>
+        <members>Program Staff</members>
+        <members>Standard</members>
+        <members>Volunteer</members>
+        <name>Profile</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Role</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomApplication</name>
+    </types>
+    <version>26.0</version>
+</Package>
+
